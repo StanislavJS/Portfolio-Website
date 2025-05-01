@@ -10,7 +10,7 @@
 @import url('./container.css');
 
 /* Sections style */
-@import url('./header.css');
+@import url('./styles.css');
 @import url('./hero.css');
 @import url('./how_it_works.css');
 @import url('./advertisement.css');
